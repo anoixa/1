@@ -1,0 +1,14 @@
+﻿  typedef 1.c
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): message : 此参数用作缓冲区大小
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int *”
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): message : 此参数由转换说明符使用
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): message : 占位符和其参数预计 6 可变参数，但提供的却是 4 参数
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): message : 缺失的可变参数 5 为格式字符串“%s”所需
+C:\Users\himmc\Desktop\1\kc\computer\c\Project1\Project1\typedef 1.c(33,17): message : 此参数用作缓冲区大小
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\himmc\Desktop\1\kc\computer\c\Project1\x64\Release\Project1.exe
